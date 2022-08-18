@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\TodoOfertas\Todo Ofertas\bin\Debug\Todo Ofertas.dll
+C:\Users\user\Desktop\TodoOfertas\Todo Ofertas\bin\Debug\Todo Ofertas.pdb
+C:\Users\user\Desktop\TodoOfertas\Todo Ofertas\obj\Debug\Todo Ofertas.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TodoOfertas\Todo Ofertas\obj\Debug\Todo Ofertas.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TodoOfertas\Todo Ofertas\obj\Debug\Todo Ofertas.dll
+C:\Users\user\Desktop\TodoOfertas\Todo Ofertas\obj\Debug\Todo Ofertas.pdb
